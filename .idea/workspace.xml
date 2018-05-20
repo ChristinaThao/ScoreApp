@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c829a98-3eb8-434c-b74f-39c2854e59b2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imports/ui/PlayerList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/PlayerList.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/imports/ui/PlayerList.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -1308,12 +1306,12 @@
       <updated>1526670465578</updated>
       <workItem from="1526670467144" duration="88000" />
       <workItem from="1526670821266" duration="6808000" />
-      <workItem from="1526762339479" duration="10704000" />
+      <workItem from="1526762339479" duration="10961000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17600000" />
+    <option name="totallyTimeSpent" value="17857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="847" y="0" width="867" height="927" extended-state="0" />
@@ -1458,7 +1456,7 @@
     <entry file="file://$PROJECT_DIR$/imports/ui/PlayerList.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
