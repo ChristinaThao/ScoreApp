@@ -5,14 +5,24 @@ import {Tracker} from 'meteor/tracker';
 
 import {Players} from './../imports/api/players';
 
-
+import TitleBar from './../imports/ui/TitleBar';
 
 const renderPlayers = (playerList) => {
     return playerList.map( (player) => {
         return (
             <p key = {player._id}>
                 {player.name} has {player.score} point(s).
-                <button onClick={() => {Players.remove({_id: player._id})}}>X</button>
+                <button onClick={() => {
+                    Players.update(player._id, {
+                        $inc: {score: 1}
+                    });
+                }}>+1</button>
+                <button onClick={() => {
+                    Players.update(player._id, {
+                        $inc: {score: -1}
+                    });
+                }}>-1</button>
+                <button onClick={() => {Players.remove(player._id)}}>X</button>
             </p>
     );
     });
@@ -35,13 +45,11 @@ const handleSubmit = (e) => {
 Meteor.startup(() => {
     Tracker.autorun(() => {
         let players = Players.find().fetch();
-
-        let title = 'Score App';
-        let name = 'X'
+        let title = 'Score Keep';
+        let subtitle = 'Created by Tina';
         let jsx = (
             <div>
-                <h1>{title}</h1>
-                <p>Hello {name}</p>
+                <TitleBar title={title} subtitle = {subtitle}/>
                 {renderPlayers(players)}
                 <form onSubmit={handleSubmit}>
                     <input type="text" name="playerName" placeholder="Player Name"/>
