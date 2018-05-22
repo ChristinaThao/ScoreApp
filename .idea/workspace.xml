@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c829a98-3eb8-434c-b74f-39c2854e59b2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/imports/client/styles/_main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imports/client/styles/components/_title-bar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imports/client/styles/components/_wrapper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/client/styles/components/_item.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imports/client/styles/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/imports/client/styles/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imports/ui/AddPlayer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/AddPlayer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imports/ui/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imports/ui/Player.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/Player.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imports/ui/PlayerList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/PlayerList.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,29 +20,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+            <state relative-caret-position="23">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imports/ui/App.jsx">
+      <file leaf-file-name="_main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imports/client/styles/_main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="227">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_item.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imports/client/styles/components/_item.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddPlayer.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imports/ui/AddPlayer.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -47,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlayerList.jsx" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PlayerList.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/imports/ui/PlayerList.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+            <state relative-caret-position="184">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -62,62 +74,8 @@
       <file leaf-file-name="Player.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/imports/ui/Player.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_main.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imports/client/styles/_main.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_wrapper.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/imports/client/styles/components/_wrapper.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_title-bar.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imports/client/styles/components/_title-bar.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddPlayer.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imports/ui/AddPlayer.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -133,17 +91,18 @@
         <option value="$PROJECT_DIR$/client/main.html" />
         <option value="$PROJECT_DIR$/imports/api/players.jsx" />
         <option value="$PROJECT_DIR$/server/main.js" />
-        <option value="$PROJECT_DIR$/imports/ui/AddPlayer.jsx" />
-        <option value="$PROJECT_DIR$/imports/ui/Player.jsx" />
-        <option value="$PROJECT_DIR$/imports/ui/PlayerList.jsx" />
-        <option value="$PROJECT_DIR$/imports/ui/App.jsx" />
         <option value="$PROJECT_DIR$/client/main.js" />
         <option value="$PROJECT_DIR$/imports/ui/TitleBar.jsx" />
         <option value="$PROJECT_DIR$/imports/client/_main.scss" />
-        <option value="$PROJECT_DIR$/client/main.scss" />
         <option value="$PROJECT_DIR$/imports/client/styles/components/_title-bar.scss" />
-        <option value="$PROJECT_DIR$/imports/client/styles/_main.scss" />
         <option value="$PROJECT_DIR$/imports/client/styles/components/_wrapper.scss" />
+        <option value="$PROJECT_DIR$/imports/ui/App.jsx" />
+        <option value="$PROJECT_DIR$/client/main.scss" />
+        <option value="$PROJECT_DIR$/imports/client/styles/_main.scss" />
+        <option value="$PROJECT_DIR$/imports/client/styles/components/_item.scss" />
+        <option value="$PROJECT_DIR$/imports/ui/AddPlayer.jsx" />
+        <option value="$PROJECT_DIR$/imports/ui/Player.jsx" />
+        <option value="$PROJECT_DIR$/imports/ui/PlayerList.jsx" />
       </list>
     </option>
   </component>
@@ -159,6 +118,470 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/@babel/runtime/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/encoding/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/fbjs/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/fbjs/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/isomorphic-fetch/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/loose-envify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/asn1.js/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/assert/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/brorand/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/browserify-aes/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/browserify-cipher/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/browserify-des/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/browserify-rsa/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/browserify-sign/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/browserify-zlib/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/browserify-zlib/test/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/buffer-xor/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/buffer/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/builtin-status-codes/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/cipher-base/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/console-browserify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/constants-browserify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/create-ecdh/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/create-hash/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/create-hmac/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/crypto-browserify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/date-now/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/des.js/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/diffie-hellman/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/domain-browser/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/elliptic/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/events/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/evp_bytestokey/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/hash-base/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/hash.js/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/hash.js/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/hmac-drbg/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/https-browserify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/md5.js/node_modules/hash-base/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/md5.js/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/miller-rabin/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/minimalistic-assert/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/minimalistic-crypto-utils/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/os-browserify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/pako/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/parse-asn1/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/path-browserify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/pbkdf2/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/process/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/public-encrypt/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/querystring-es3/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/querystring/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/randombytes/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/randomfill/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/readable-stream/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/ripemd160/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/sha.js/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/stream-browserify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/stream-http/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/stream-http/test/browser/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/timers-browserify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/to-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/tty-browserify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/url/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/url/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/vm-browserify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor-node-stubs/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/code-frame/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/core/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/generator/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-annotate-as-pure/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-builder-binary-assignment-operator-visitor/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-builder-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-call-delegate/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-define-map/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-explode-assignable-expression/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-function-name/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-get-function-arity/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-hoist-variables/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-member-expression-to-functions/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-module-imports/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-module-transforms/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-optimise-call-expression/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-plugin-utils/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-regex/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-remap-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-replace-supers/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-simple-access/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-split-export-declaration/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helper-wrap-function/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/helpers/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/highlight/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-proposal-async-generator-functions/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-proposal-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-proposal-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-syntax-async-generators/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-syntax-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-syntax-dynamic-import/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-syntax-flow/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-syntax-jsx/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-syntax-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-arrow-functions/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-block-scoped-functions/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-block-scoping/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-classes/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-computed-properties/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-destructuring/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-flow-strip-types/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-for-of/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-literals/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-modules-commonjs/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-object-super/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-parameters/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-property-literals/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-react-display-name/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-react-jsx-self/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-react-jsx-source/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-regenerator/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-runtime/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-shorthand-properties/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-spread/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-sticky-regex/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-template-literals/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-typeof-symbol/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/plugin-transform-unicode-regex/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/preset-react/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/runtime/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/template/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/traverse/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/@babel/types/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-helper-evaluate-path/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-helper-flip-expressions/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-helper-is-nodes-equiv/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-helper-is-void-0/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-helper-mark-eval-scopes/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-helper-remove-or-void/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-helper-to-multiple-sequence-expressions/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-minify-builtins/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-minify-constant-folding/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-minify-dead-code-elimination/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-minify-flip-comparisons/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-minify-guarded-expressions/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-minify-infinity/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-minify-mangle-names/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-minify-numeric-literals/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-minify-replace/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-minify-simplify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-minify-type-constructors/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-transform-es2015-modules-reify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-transform-inline-consecutive-adds/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-transform-member-expression-literals/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-transform-merge-sibling-variables/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-transform-minify-booleans/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-transform-property-literals/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-transform-regexp-constructors/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-transform-remove-console/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-transform-remove-debugger/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-transform-remove-undefined/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-transform-simplify-comparison-operators/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-plugin-transform-undefined-to-void/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-preset-meteor/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babel-preset-minify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/convert-source-map/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/expand-range/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/filename-regex/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/for-own/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/glob-base/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/globals/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/invariant/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/is-dotfile/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/is-equal-shallow/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/is-posix-bracket/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/is-primitive/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/json5/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/lodash.isplainobject/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/lodash.some/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/loose-envify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/meteor-babel-helpers/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/meteor-babel/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/object.omit/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/parse-glob/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/path-parse/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/preserve/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/private/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/randomatic/node_modules/is-number/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/randomatic/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/randomatic/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/randomatic/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/regenerate-unicode-properties/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/regenerate/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/regenerator-transform/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/regex-cache/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/regexpu-core/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/regjsgen/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/regjsparser/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/regjsparser/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/reify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/resolve/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/resolve/test/resolver/browser_field/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/resolve/test/resolver/dot_main/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/resolve/test/resolver/dot_slash_main/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/trim-right/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/unicode-canonical-property-names-ecmascript/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/unicode-match-property-ecmascript/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/unicode-match-property-value-ecmascript/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-compiler/node_modules/unicode-property-aliases-ecmascript/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/babel-runtime/node_modules/meteor-babel-helpers/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/boilerplate-generator/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/boilerplate-generator/node_modules/combined-stream2/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/boilerplate-generator/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/boilerplate-generator/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/boilerplate-generator/node_modules/stream-length/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ddp-client/node_modules/lolex/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ddp-server/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ddp-server/node_modules/http-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ddp-server/node_modules/permessage-deflate/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ddp-server/node_modules/sockjs/examples/echo/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ddp-server/node_modules/sockjs/examples/express-3.x/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ddp-server/node_modules/sockjs/examples/express/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ddp-server/node_modules/sockjs/examples/hapi/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ddp-server/node_modules/sockjs/examples/koa/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ddp-server/node_modules/sockjs/examples/multiplex/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ddp-server/node_modules/sockjs/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ddp-server/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ddp-server/node_modules/websocket-driver/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ddp-server/node_modules/websocket-extensions/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ecmascript-runtime-server/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/es5-shim/node_modules/es5-shim/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/cryptiles/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/cryptiles/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/hawk/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/sntp/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/stringstream/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/http/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/logging/node_modules/cli-color/node_modules/es5-ext/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/logging/node_modules/cli-color/node_modules/memoizee/node_modules/event-emitter/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/logging/node_modules/cli-color/node_modules/memoizee/node_modules/next-tick/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/logging/node_modules/cli-color/node_modules/memoizee/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/logging/node_modules/cli-color/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/meteor/node_modules/meteor-deque/node_modules/double-ended-queue/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/meteor/node_modules/meteor-deque/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/modules-runtime/node_modules/install/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/modules/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/modules/node_modules/reify/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/modules/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/mongo/node_modules/mongodb-uri/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/buffer-shims/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/es6-promise/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/mongodb/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/npm-mongo/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/promise/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/promise/node_modules/meteor-promise/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/promise/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/server-render/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/server-render/node_modules/combined-stream2/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/server-render/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/server-render/node_modules/magic-string/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/server-render/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/server-render/node_modules/parse5/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/server-render/node_modules/promise-polyfill/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/server-render/node_modules/stream-length/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/server-render/node_modules/stream-to-string/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/server-render/node_modules/vlq/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/socket-stream-client/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/socket-stream-client/node_modules/http-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/socket-stream-client/node_modules/permessage-deflate/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/socket-stream-client/node_modules/websocket-driver/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/socket-stream-client/node_modules/websocket-extensions/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/basic-auth-connect/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/compressible/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/compression/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/connect/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/connect/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/cookie-parser/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/errorhandler/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/finalhandler/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/promise-polyfill/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/qs-middleware/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/stream-to-string/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/tmp/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/useragent/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/webapp/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/node-fetch/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/prop-types/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/react-dom/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/react/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/setimmediate/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/ua-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/whatwg-fetch/package.json" />
       <path value="$PROJECT_DIR$/.meteor/local/build/programs/server/package.json" />
       <path value="$PROJECT_DIR$/.meteor/local/dev_bundle/etc/package.json" />
       <path value="$PROJECT_DIR$/.meteor/local/dev_bundle/lib/node_modules/@babel/code-frame/package.json" />
@@ -1237,6 +1660,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1308,16 +1733,17 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ever-Clean" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
@@ -1392,12 +1818,16 @@
       <updated>1526670465578</updated>
       <workItem from="1526670467144" duration="88000" />
       <workItem from="1526670821266" duration="6808000" />
-      <workItem from="1526762339479" duration="15657000" />
+      <workItem from="1526762339479" duration="16287000" />
+      <workItem from="1526871422826" duration="608000" />
+      <workItem from="1526918988976" duration="33000" />
+      <workItem from="1526936248128" duration="280000" />
+      <workItem from="1527008483351" duration="637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22553000" />
+    <option name="totallyTimeSpent" value="24741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="847" y="0" width="867" height="927" extended-state="0" />
@@ -1405,24 +1835,24 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15357561" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32923833" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23329425" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1431,6 +1861,35 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18405627" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1443,13 +1902,33 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/imports/ui/AddPlayer.jsx</url>
-          <properties lambdaOrdinal="-1" />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/client/styles/_main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/client/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1461,9 +1940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1485,9 +1961,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1498,29 +1971,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imports/ui/AddPlayer.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imports/ui/App.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1528,47 +1978,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imports/ui/PlayerList.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/imports/ui/TitleBar.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imports/ui/Player.jsx">
+    <entry file="file://$PROJECT_DIR$/imports/ui/App.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/client/styles/components/_wrapper.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1579,24 +2006,135 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imports/client/styles/_main.scss">
+    <entry file="file://$PROJECT_DIR$/client/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imports/client/styles/components/_wrapper.scss">
+    <entry file="file://$PROJECT_DIR$/client/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        <state relative-caret-position="23">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/client/styles/_main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/client/styles/components/_item.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/ui/AddPlayer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/ui/Player.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/ui/PlayerList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ScoreApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
