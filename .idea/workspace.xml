@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c829a98-3eb8-434c-b74f-39c2854e59b2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/imports/client/styles/components/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imports/client/styles/components/_player.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imports/client/styles/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/imports/client/styles/_main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imports/client/styles/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/imports/client/styles/components/_button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imports/client/styles/components/_title-bar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/imports/client/styles/components/_title-bar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imports/ui/AddPlayer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/AddPlayer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imports/ui/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imports/ui/Player.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/Player.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imports/ui/TitleBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/TitleBar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/main.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,11 +43,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_button.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_button.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/imports/client/styles/components/_button.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
-              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -78,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/client/main.html" />
         <option value="$PROJECT_DIR$/imports/api/players.jsx" />
         <option value="$PROJECT_DIR$/server/main.js" />
         <option value="$PROJECT_DIR$/client/main.js" />
@@ -97,6 +96,7 @@
         <option value="$PROJECT_DIR$/imports/ui/Player.jsx" />
         <option value="$PROJECT_DIR$/imports/client/styles/components/_player.scss" />
         <option value="$PROJECT_DIR$/imports/client/styles/components/_button.scss" />
+        <option value="$PROJECT_DIR$/client/main.html" />
       </list>
     </option>
   </component>
@@ -1816,12 +1816,12 @@
       <workItem from="1526871422826" duration="608000" />
       <workItem from="1526918988976" duration="33000" />
       <workItem from="1526936248128" duration="280000" />
-      <workItem from="1527008483351" duration="7691000" />
+      <workItem from="1527008483351" duration="8346000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31795000" />
+    <option name="totallyTimeSpent" value="32450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="847" y="0" width="867" height="927" extended-state="0" />
@@ -1958,13 +1958,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -2075,7 +2068,14 @@
     <entry file="file://$PROJECT_DIR$/imports/client/styles/components/_button.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
-          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
